@@ -26,7 +26,7 @@ function setup() {
 */
 function draw() {
     // Make the background black (specified as RGB)
-    background(1, 8, 0);
+    background(1, 8, 2);
 
     // Draw a pyramid
     // How many levels for the pyramid
