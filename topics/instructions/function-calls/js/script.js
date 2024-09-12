@@ -12,7 +12,7 @@
  * OH LOOK I DIDN'T DESCRIBE SETUP!!
 */
 function setup() {
-
+  createCanvas(640, 480);
 }
 
 
@@ -20,5 +20,6 @@ function setup() {
  * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
 */
 function draw() {
-
+  background(20, 100, 500);
+  rect(100, 50, 440, 380);
 }
