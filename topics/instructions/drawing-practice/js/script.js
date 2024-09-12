@@ -2,7 +2,7 @@
  * I learn to draw pt.3
  * Kiana
  * 
- * A fish (hopefully)
+ * A vinyl record (i wanted a fish)
  * 
  * Uses:
  * p5 
