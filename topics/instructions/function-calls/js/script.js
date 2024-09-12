@@ -1,25 +1,30 @@
 /**
- * Title of Project
- * Author Name
+ * I learn how to draw pt 2
+ * Kiana
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * In this magic trick will make a blue background canvas and learn to use them.
+ * Please grade me well.
+ * 
+ * uses:
+ * p5.js 
+ * https://p5js.org/
  */
 
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * sets up a canvas that is 640x480
 */
 function setup() {
-  createCanvas(640, 480);
+    createCanvas(640, 480);
 }
 
-
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+ * makes a blue background, makes a wide big rectangle in it
 */
 function draw() {
-  background(20, 100, 500);
-  rect(100, 50, 440, 380);
+    background(20, 100, 500);
+    //the blue background
+    rect(100, 50, 440, 380);
+    //the wide rectangle
 }
